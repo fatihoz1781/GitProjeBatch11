@@ -55,5 +55,6 @@ cls   -> cmd ekranını temizliyor.
 	      System.out.println("ikinci commit");
 	      System.out.println("08:15-ikinci Gun");
 	      System.out.println("08:26 - ikinci gun");
+	      System.out.println("20:36-ikinci gun");
 }
 }
