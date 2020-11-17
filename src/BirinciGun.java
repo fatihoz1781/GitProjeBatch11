@@ -59,6 +59,10 @@ cls   -> cmd ekranını temizliyor.
 	      System.out.println("21:05-local");
 	      System.out.println("21:24-github");
 	      System.out.println("burada conflict beklemiyorum");
+<<<<<<< HEAD
 	      System.out.println("localden yeni satir");
+=======
+	      System.out.println("21:55-conflict var mi");
+>>>>>>> refs/remotes/origin/master
 }
 }
