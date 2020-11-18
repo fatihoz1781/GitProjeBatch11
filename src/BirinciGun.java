@@ -13,11 +13,7 @@ public class BirinciGun {
 	      System.out.println("21:24-github");
 	      System.out.println("burada conflict beklemiyorum");
 	      System.out.println("localden yeni satir");
-<<<<<<< HEAD
 	      System.out.println("bu daha yeni");
-=======
-	      System.out.println("yeni bir deneme")
->>>>>>> refs/remotes/origin/master
 	    
 }
 }
