@@ -13,6 +13,7 @@ public class BirinciGun {
 	      System.out.println("21:24-github");
 	      System.out.println("burada conflict beklemiyorum");
 	      System.out.println("localden yeni satir");
+	      System.out.println("yeni bir deneme")
 	    
 }
 }
